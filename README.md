@@ -1,3 +1,3 @@
 # RubyUnitTest
 
-![my badge](https://badgen.net/badge/RubyUnitTest/success/green)
+![my badge](https://badgen.net/badge/RubyUnitTest/passing/green)
